@@ -38,28 +38,3 @@ Run webpack dev server
 Run webpack build script
   
     npm run build
-
-
-
-### Control Panel Link
-
-Development => http://localhost:1027/control/signin.html
-
-    password
-        
-        adminpassword1337
-
-
-    email
-    
-        admin@admin.com
-
-
-Production => http://domain.com/control/signin.html
-
-
-
-
-### Notes
-
-    Do not commit database.json to a public repo
